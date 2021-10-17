@@ -6,5 +6,10 @@ Hockey
 Foot ball
 Hand ball
 
+In door games
+-------------
+Table Tennis
+Chess
+Carrom
 
 Thank you :)
